@@ -16,9 +16,7 @@
 ## 🔨 Repositories
 
 [![GithubMemberSearch](https://img.shields.io/badge/Code-GitHubMemberSearch-informational?link=./GithubMemberSearch&style=plastic&logo=c-sharp&logoColor=white&color=007ec6)](https://github.com/ASCRees/GitHubMemberSearch)
-
 [![Bowling Kata](https://img.shields.io/badge/Code-BowlingKata-informational?style=flat&logo=c-sharp&logoColor=white&color=007ec6)](https://github.com/ASCRees/Bowling-Kata)
-
 [![Snap](https://img.shields.io/badge/Code-Snap-informational?style=flat&logo=c-sharp&logoColor=white&color=007ec6)](https://github.com/ASCRees/Snap)
 
 [![Sudoku Solver](https://img.shields.io/badge/Code-Soduko_Solver-informational?style=flat&logo=typescript&logoColor=white&color=007ec6)](https://github.com/ASCRees/Sudoku_Solver)
