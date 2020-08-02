@@ -1,7 +1,8 @@
 ![mybannerthinner](https://user-images.githubusercontent.com/28151071/89126468-c8350400-d4dd-11ea-9903-89ab9b72250a.png)
 
 ## 🔧 Repositories
-![GithubMemberSearch](https://img.shields.io/badge/Code-GitHubMemberSearch-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a&link=http://github.com/ascrees/GithubMemberSearch)
+![GithubMemberSearch](https://img.shields.io/badge/Code-GitHubMemberSearch-informational?link=http://left&link=http://right&style=plastic&logo=c-sharp&logoColor=white&color=2bbc8a)
+
 ![Bowling Kata](https://img.shields.io/badge/Code-BowlingKata-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a&link=./Bowling-Kata)
 
 ## &#x1f4c8; GitHub Stats
