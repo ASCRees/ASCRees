@@ -15,8 +15,7 @@
 
 ## 🔧 Repositories
 
-![GithubMemberSearch(http://github.com/ascrees/GithubMemeberSearch)](https://img.shields.io/badge/Code-GitHubMemberSearch-informational?link=GithubMemberSearch&style=plastic&logo=c-sharp&logoColor=white&color=2bbc8a)
-
+[![GithubMemberSearch](https://img.shields.io/badge/Code-GitHubMemberSearch-informational?link=./GithubMemberSearch&style=plastic&logo=c-sharp&logoColor=white&color=2bbc8a)](http://www.github.com/asrees/GithubMemberSearch)
 
 ![Bowling Kata](https://img.shields.io/badge/Code-BowlingKata-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a&link=./Bowling-Kata)
 
