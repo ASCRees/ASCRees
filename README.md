@@ -1,4 +1,4 @@
-![mybannerthinner](https://user-images.githubusercontent.com/28151071/89126468-c8350400-d4dd-11ea-9903-89ab9b72250a.png)
+![MyBannerVeryThin](https://user-images.githubusercontent.com/28151071/89131521-4ce74880-d505-11ea-9293-3983b0d2f01c.png)
 
 ## 🔧 Technologies & Tools
 ![C#](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
