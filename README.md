@@ -25,4 +25,4 @@
 
 ## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ascrees&theme=dark)](https://github.com/ascrees/github-readme-stats)
-[![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=ascrees&show_icons=true&theme=dark)](https://github.com/ascrees/github-readme-stats)
+
