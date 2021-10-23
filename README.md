@@ -15,6 +15,7 @@
 
 ## 🔨 Repositories
 
+[![HumandResources](https://img.shields.io/badge/Code-HumandResources-informational?link=./HumandResourcesWebApis&style=plastic&logo=c-sharp&logoColor=white&color=007ec6)](https://github.com/ASCRees/HumanResourceWebApis)
 [![GithubMemberSearch](https://img.shields.io/badge/Code-GitHubMemberSearch-informational?link=./GithubMemberSearch&style=plastic&logo=c-sharp&logoColor=white&color=007ec6)](https://github.com/ASCRees/GitHubMemberSearch)
 [![Bowling Kata](https://img.shields.io/badge/Code-BowlingKata-informational?style=flat&logo=c-sharp&logoColor=white&color=007ec6)](https://github.com/ASCRees/Bowling-Kata)
 [![Snap](https://img.shields.io/badge/Code-Snap-informational?style=flat&logo=c-sharp&logoColor=white&color=007ec6)](https://github.com/ASCRees/Snap)
@@ -22,7 +23,7 @@
 [![Sudoku Solver](https://img.shields.io/badge/Code-Soduko_Solver-informational?style=flat&logo=typescript&logoColor=white&color=007ec6)](https://github.com/ASCRees/Sudoku_Solver)
 [![GitHubMemberSearch TypeScript](https://img.shields.io/badge/Code-GitHubMemberSearch_TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007ec6)](https://github.com/ASCRees/GitHubMemberSearch-TypeScript)
 [![Knights Challenge](https://img.shields.io/badge/Code-Knights_Challenge-informational?style=flat&logo=typescript&logoColor=white&color=007ec6)](https://github.com/ASCRees/Knights-Challenge)
-[![HumandResources](https://img.shields.io/badge/Code-HumandResources-informational?link=./HumandResourcesWebApis&style=plastic&logo=c-sharp&logoColor=white&color=007ec6)](https://github.com/ASCRees/HumanResourceWebApis)
+
 
 ## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ascrees&theme=dark)](https://github.com/ascrees/github-readme-stats)
