@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Databases-SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Databases-My_SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Editor-Visual_Studio_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_IDE-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 
 
 ## 🔨 Repositories
